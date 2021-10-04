@@ -17,10 +17,10 @@ const CONFIG = {
   twelveHourFormat: false,
 
   // Greetings
-  greetingMorning: 'Good morning!',
-  greetingAfternoon: 'Good afternoon,',
-  greetingEvening: 'Good evening,',
-  greetingNight: 'Go to Sleep!',
+  greetingMorning: 'おはよう、',
+  greetingAfternoon: '寝ろよ、',
+  greetingEvening: 'こんばんわ、',
+  greetingNight: '寝ろよ！',
 
   // Weather
   weatherKey: 'InsertYourAPIKeyHere123456',
@@ -48,13 +48,13 @@ const CONFIG = {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://owa.kit.edu/',
     },
     {
       id: '3',
       name: 'Todoist',
       icon: 'trello',
-      link: 'https://calendar.google.com/calendar/r',
+      link: 'https://campus.studium.kit.edu/',
     },
     {
       id: '4',
@@ -106,20 +106,16 @@ const CONFIG = {
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'Ilias',
+        link: 'https://ilias.studium.kit.edu/',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'DeepL',
+        link: 'https://www.deepl.com/de',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
-      },
-      {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'JPDB',
+        link: 'https://jpdb.io',
       },
     ],
   },
