@@ -110,6 +110,10 @@ const CONFIG = {
         link: 'https://ilias.studium.kit.edu/',
       },
       {
+        name: 'Campus',
+        link: 'https://campus.studium.kit.edu/',
+      },
+      {
         name: 'DeepL',
         link: 'https://www.deepl.com/de',
       },
